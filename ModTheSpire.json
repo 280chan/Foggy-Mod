@@ -1,0 +1,7 @@
+{
+	"modid": "FoggyMod",
+	"name": "FoggyMod",
+	"author_list": ["彼君不触"],
+	"description": "Change All normal combat room into ? Room, except the first room in Each Act.",
+	"version": "2.0.0"
+}
